@@ -22,7 +22,8 @@ La base de données contient les tables suivantes :
 
 🖼️ **Aperçu du modèle relationnel** :
 
-![Schéma de la base de données](./assets/db_schema.png)
+<img width="1515" height="848" alt="image" src="https://github.com/user-attachments/assets/4eb5dd24-01fd-4091-9537-3f82002de5ef" />
+
 
 ---
 
